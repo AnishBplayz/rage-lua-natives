@@ -9,50 +9,50 @@ importers:
   .:
     dependencies:
       '@akanass/rx-http-request':
-        specifier: ^3.1.0
+        specifier: ^3.3.0
         version: 3.3.0(rxjs@6.6.7)
       '@types/common-tags':
-        specifier: ^1.8.1
+        specifier: ^1.8.4
         version: 1.8.4
       '@types/fs-extra':
         specifier: ^7.0.0
         version: 7.0.0
       '@types/request':
-        specifier: ^2.48.1
+        specifier: ^2.48.13
         version: 2.48.13
       '@types/terminal-kit':
-        specifier: ^1.28.0
+        specifier: ^1.34.1
         version: 1.34.1
       chalk:
         specifier: ^2.4.2
         version: 2.4.2
       common-tags:
-        specifier: ^1.8.0
+        specifier: ^1.8.2
         version: 1.8.2
       figlet:
-        specifier: ^1.2.4
+        specifier: ^1.9.3
         version: 1.9.3
       fs-extra:
-        specifier: ^8.0.1
+        specifier: ^8.1.0
         version: 8.1.0
       request:
-        specifier: ^2.88.0
+        specifier: ^2.88.2
         version: 2.88.2
       terminal-kit:
-        specifier: ^1.31.6
+        specifier: ^1.49.4
         version: 1.49.4
     devDependencies:
       '@types/figlet':
         specifier: ^1.7.0
         version: 1.7.0
       '@types/node':
-        specifier: ^14.14.37
+        specifier: ^14.18.63
         version: 14.18.63
       ts-node:
-        specifier: ^8.1.1
+        specifier: ^8.10.2
         version: 8.10.2(typescript@3.9.10)
       typescript:
-        specifier: ^3.4.5
+        specifier: ^3.9.10
         version: 3.9.10
 
 packages:
