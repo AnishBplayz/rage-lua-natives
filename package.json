@@ -9,6 +9,7 @@
   "author": "Dylan Malandain",
   "license": "MIT",
   "devDependencies": {
+    "@types/figlet": "^1.7.0",
     "@types/node": "^14.14.37",
     "ts-node": "^8.1.1",
     "typescript": "^3.4.5"
