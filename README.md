@@ -1,8 +1,8 @@
 # rage-lua-natives
 
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
-![License](https://img.shields.io/github/license/CommunityOx/rage-lua-natives.svg)
-![OpenIssue](https://img.shields.io/github/issues/CommunityOx/rage-lua-natives.svg?style=flat)
+![License](https://img.shields.io/github/license/anishbplayz/rage-lua-natives.svg)
+![OpenIssue](https://img.shields.io/github/issues/anishbplayz/rage-lua-natives.svg?style=flat)
 
 ### How to use this tool to generate / regenerate CitizenFX native ?
 
